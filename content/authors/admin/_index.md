@@ -28,8 +28,8 @@ interests:
 education:
   courses:
     - course: PhD in Natural Sciences for Development
-      institution: 
-      year: 2012
+      institution: Universidad Nacional
+      year: 2019
     - course: MSc in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2009
@@ -69,7 +69,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Principal Investigators
 ---
 
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
