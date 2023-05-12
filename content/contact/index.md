@@ -9,20 +9,19 @@ sections:
     content:
       title: Contact
       text: |-
-      
+      We are part of the School of Chemistry in the National University of Costa Rica. Our lab is located in the 3rd floor of the NPI building in the Campus Omar Dengo.
         
-      email: test@example.org
       phone: +506 2277 3824
-      address:
-        street: Universidad Nacional
-        city: Heredia
-        postcode: '86-3000'
-        country: Costa Rica
-        country_code: CR
+      #address:
+        #street: Universidad Nacional
+        #city: Heredia
+        #postcode: '86-3000'
+        #country: Costa Rica
+        #country_code: CR
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'
-      directions: 3rd floor, Edificio de Nuevos Procesos Industriales
+        latitude: '10.0018394'
+        longitude: '-84.1098785'
+      #directions: 3rd floor, Edificio de Nuevos Procesos Industriales
       office_hours:
         - 'Monday to Friday 7:00 to 17:00'
       #contact_links:
