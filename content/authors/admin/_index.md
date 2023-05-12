@@ -1,40 +1,40 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: G E-H
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: G
+last_name: E-H
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professor of Environmental Chemistry
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Universidad Nacional, Costa Rica
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Artificial Intelligence
+  - Isotope hydrology
   - Computational Linguistics
   - Information Retrieval
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: PhD in Natural Sciences for Development
+      institution: 
       year: 2012
-    - course: MEng in Artificial Intelligence
+    - course: MSc in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: BSc in Industrial Chemistry
+      institution: Universidad Nacional
       year: 2008
 
 # Social/Academic Networking
