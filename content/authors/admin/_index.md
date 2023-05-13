@@ -72,22 +72,3 @@ user_groups:
 ---
 
 Germain Esquivel-Hernández is full professor of analytical and environmental chemistry at the School of Chemistry of Universidad Nacional, Costa Rica. He is the coordinator of the Stable Isotopes Research Group and the Water Resources Management Laboratory. Both labs focus on the understanding of hydrological processes in the tropics including, but not limited to, groundwater-surface water connectivity, tropical limnology, and precipitation dynamics using stable isotopes, radon, nutrients, DOC/DIC (i.e., dissolved organic and inorganic carbon), and other trace elements. His goal is to improve water resources management in tropical regions using stable isotopes, meteorological and hydrogeological applications.
-
----
-# Page title
-title: false
-# Page type - we want a landing page (such as a homepage)
-type: landing
-
-# Your landing page sections - add as many different content blocks as you like
-sections:
-  - block: markdown
-    id: section-1
-    content:
-      title: false
-      subtitle: false
-      text: |-
-        **Selected publications**
-        - Water isotope analyser
-        - Water 2
----
