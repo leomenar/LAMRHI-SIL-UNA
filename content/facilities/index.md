@@ -8,7 +8,7 @@ type: landing
 sections:
   - block: markdown
     content:
-      title: false
+      title: Facilities
       subtitle: false
       text: | 
         Our laboratory is designed to undertake chemical and isotopic analyses in liquid samples. Instruments include:
