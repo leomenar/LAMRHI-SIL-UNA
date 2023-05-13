@@ -22,12 +22,12 @@ sections:
         latitude: '10.0018394'
         longitude: '-84.1098785'
       #directions: 3rd floor, Edificio de Nuevos Procesos Industriales
-      contact_links:
-        - icon: twitter
-          icon_pack: fab
-          link: 'https://twitter.com/isotopetropics'
       office_hours:
         - 'Monday to Friday 7:00 to 17:00'
+      contact_links:
+        - icon: twitter
+          icon_pack: fas
+          link: 'https://twitter.com/isotopetropics'
 
       # Automatically link email and phone or display as text?
       autolink: true
