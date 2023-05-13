@@ -11,7 +11,10 @@ sections:
     content:
       title: false
       subtitle: Instrumentation
-      text: Isotope analysers
+      text: |-
+        - Water isotope analyser
+        - Water 2
+        1. WAter
   - block: markdown
     id: section-2
     content:
