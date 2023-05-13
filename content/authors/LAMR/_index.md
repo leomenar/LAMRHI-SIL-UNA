@@ -25,9 +25,9 @@ organizations:
 bio: My research interests include carbon and nitrogen cycling in inland waters and mass spectrometry.
 
 interests:
-  - Organic matter dynamics in inland waters
+  - Organic matter dynamics
   - Mass spectrometry
-  - Compound-specific stable isotope probing
+  - Stable isotope probing
   - Surface water quality
 
 education:
@@ -71,4 +71,4 @@ user_groups:
   - Principal Investigators
 ---
 
-Leonardo Mena-Rivera is an assistant professor of biogeochemistry at the School of Chemistry of Universidad Nacional, Costa Rica. His research focuses on the application of state of the art analytical chemistry techniques to understand complex biogeochemical processes in freshwater ecosystems. In particular, he has been investigating the chemical and microbial interactions between dissolved and particulate organic matter. He is also interested in natural resources conservation as he has been previously involved in multiple initiatives regarding integrated water resources management.
+Leonardo Mena-Rivera is interested in the application of state of the art analytical chemistry techniques to understand complex biogeochemical processes in freshwater ecosystems. In particular, he has been investigating the chemical and microbial interactions between dissolved and particulate organic matter using a combination of mass spectrometry, compound-specific stable isotopes and amplicon sequencing techniques. He is also interested in natural resources conservation as he has been previously involved in multiple initiatives regarding integrated water resources management.

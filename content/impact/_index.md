@@ -1,5 +1,7 @@
 ---
 title: Publications
+text: |-
+        We have published >70 reseacrh articles in peer-reviewed journals. Here, a small subset is presented. For an up to date list, please check the Google Scholar profile of the PIs.
 
 # Listing view
 view: citation
