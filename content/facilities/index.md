@@ -9,17 +9,15 @@ sections:
   - block: markdown
     id: section-1
     content:
-      title: false
+      title: Facilities
       subtitle: false
       text: |-
-        **Instrumentation**
-        - Water isotope analyser
-        - Water 2
-        - 
-  - block: markdown
-    id: section-2
-    content:
-      title: Section 2
-      subtitle: A subtitle
-      text: Add your Section 2 content here...
+        - Dual water isotope analysers (Picarro L2120-i and LGR DT-100)
+        - Triple water isotope analyser (Picarro L2140-i)
+        - Carbon isotope analyser (Picarro)
+        - Radon detector (Durridge RAD7)
+        - Ion chromatograph (Dionex ICS 5000)
+        - UV-Vis spectrophotometer (TBC)
+        - Spectrofluorometer (TBC)
+        - Autosamplers and field sensors
 ---

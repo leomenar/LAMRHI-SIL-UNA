@@ -27,15 +27,50 @@ sections:
   - block: markdown
     id: section-1
     content:
+      title: Current students
+      subtitle: false
+      text: |-
+        - Jimena Zamora-Arce
+        - Andrés Abarca-Herrera
+        - Priscilla Baldi-Badilla
+        - Celeste Ramirez-Villegas
+      
+  - block: markdown
+    id: section-1
+    content:
       title: Alumni and Visitors
       subtitle: false
       text: |-
-        ## Alummni
+        ## Alumni
 
-        - Karina
+        - Edwin Salas-González, 2023
+        - Karina Hernández-Ugalde, 2022
+        - Kelvin Arce-Villalobos, 2020
+        - Kimberly Ledezma-Zamora, 2017
+        - Mario Villalobos-Forbes
+        - Jessica Salas-Navarro
+        - Irene Montero-Rodríguez
+        - Ailyn Ramírez-Leiva
+        - Luis Diego Espinach
+        - Oscar Sáenz-Rosales
+        - Leonardo Corrales-Salazar
         
         ## Visitors
         
-        - Dr Tamie Jovanelly, 
-        - Dr Thomas Swinscoe, 
+        - Dr Tamie Jovanelly, Berry College, 2018-2019
+        - Dr Thomas Swinscoe, University of Leeds, 2017
+        
+  - block: markdown
+    id: section-1
+    content:
+      title: Collaborators
+      subtitle: We strongly believe in academic and research synergies
+      text: |-
+        - Dr Ana Maria Durán-Quesada, Universidad de Costa Rica
+        - Dr Ricardo Sánchez-Murillo, University of Texas at Arlington
+        - Dr Christian Birkel, Universidad de Costa Rica
+        - Dr Jan Boll, Washington State University
+        - Dr María Poca, Universidad Nacional de Córdoba, Argentina
+        - Dr Giovanny Mosquera, Universidad San Francisco de Quito, Ecuador
+        - MSc Lucilena Rebelo Monteiro, Instituto de Pesquisas Energeticas e Nucleares: Sao Paulo
 ---
