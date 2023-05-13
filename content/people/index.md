@@ -74,5 +74,5 @@ sections:
         - Dr Giovanny Mosquera, Universidad San Francisco de Quito, Ecuador
         - MSc Lucilena Rebelo Monteiro, Instituto de Pesquisas Energeticas e Nucleares: Sao Paulo
       design:
-        columns: '2'
+        columns: 2
 ---
