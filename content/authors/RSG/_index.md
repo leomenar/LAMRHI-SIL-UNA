@@ -1,10 +1,10 @@
 ---
 # Display name
-title: R S-G
+title: Rolando Sánchez-Gutiérrez
 
 # Full name (for SEO)
-first_name: R
-last_name: S-G
+first_name: Rolando
+last_name: Sánchez-Gutiérrez
 
 # Username (this should match the folder name)
 authors:
@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests TBC
 
 interests:
   - Hydrochemistry
@@ -70,6 +70,4 @@ user_groups:
   - Principal Investigators
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Rolando Sanchéz-Gutierrez...

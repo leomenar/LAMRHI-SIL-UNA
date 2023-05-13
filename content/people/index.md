@@ -23,6 +23,19 @@ sections:
       show_interests: false
       show_role: true
       show_social: true
----
+      
+  - block: markdown
+    id: section-1
+    content:
+      title: Alumni and Visitors
+      subtitle: false
+      text: |-
+        ## Alummni
 
-Test
+        - Karina
+        
+        ## Visitors
+        
+        - Dr Tamie Jovanelly, 
+        - Dr Thomas Swinscoe, 
+---

@@ -1,16 +1,16 @@
 ---
 # Display name
-title: G E-H
+title: Germain Esquivel-Hernández
 
 # Full Name (for SEO)
-first_name: G
-last_name: E-H
+first_name: Germain
+last_name: Esquivel-Hernández
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Environmental Chemistry
+role: Professor of Analytical & Environmental Chemistry
 
 # Organizations/Affiliations
 organizations:
@@ -18,12 +18,14 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include isotope hydrology, ecohydrology and biogeochemistry
 
 interests:
   - Isotope hydrology
-  - Computational Linguistics
-  - Information Retrieval
+  - Ecohydrology
+  - Biogeochemistry
+  - High elevation biomes
+  - Wet deposition
 
 education:
   courses:
@@ -69,6 +71,4 @@ user_groups:
   - Principal Investigators
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Germain Esquivel-Hernández is full professor of analytical and environmental chemistry at the School of Chemistry of Universidad Nacional, Costa Rica. He is the coordinator of the Stable Isotopes Research Group and the Water Resources Management Laboratory. Both labs focus on the understanding of hydrological processes in the tropics including, but not limited to, groundwater-surface water connectivity, tropical limnology, and precipitation dynamics using stable isotopes, radon, nutrients, DOC/DIC (i.e., dissolved organic and inorganic carbon), and other trace elements. His goal is to improve water resources management in tropical regions using stable isotopes, meteorological and hydrogeological applications.

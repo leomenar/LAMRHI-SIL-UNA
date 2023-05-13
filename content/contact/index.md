@@ -8,8 +8,10 @@ sections:
   - block: contact
     content:
       title: Contact
+      subtitle: Come and work with us!
       text: |-
-        We are part of the School of Chemistry in the National University of Costa Rica. Our lab is located in the 3rd floor of the NPI building in the Campus Omar Dengo, Heredia, Costa Rica.
+        If you are enthusiastic about understanding biogeochemical processes in the tropics, please feel free to contact us
+        We are part of the School of Chemistry of the Universidad Nacional, Costa Rica. Our lab is located in the 3rd floor of the NPI building in the Campus Omar Dengo, Heredia, Costa Rica.
       phone: +506 2277 3824
       #address:
         #street: Universidad Nacional

@@ -10,11 +10,12 @@ sections:
     id: section-1
     content:
       title: false
-      subtitle: Instrumentation
+      subtitle: false
       text: |-
+        **Instrumentation**
         - Water isotope analyser
         - Water 2
-        1. WAter
+        - 
   - block: markdown
     id: section-2
     content:

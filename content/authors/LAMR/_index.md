@@ -1,10 +1,10 @@
 ---
 # Display name
-title: L M-R
+title: Leonardo Mena-Rivera
 
 # Full name (for SEO)
-first_name: L
-last_name: M-R
+first_name: Leonardo
+last_name: Mena-Rivera
 
 # Username (this should match the folder name)
 authors:
@@ -22,12 +22,13 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include carbon and nitrogen cycling in inland water and mass spectrometry.
 
 interests:
-  - C and N cycling
+  - Organic matter dynamics in inland water
   - Mass spectrometry
-  - Water resources
+  - Compound-speficic stable isotope probing
+  - Surface water quality
 
 education:
   courses:
@@ -70,6 +71,4 @@ user_groups:
   - Principal Investigators
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Leonardo Mena-Rivera is an assistant professor of biogeochemistry at the School of Chemistry of Universidad Nacional, Costa Rica. His research focuses on the application of state of the art analytical chemistry techniques to understand complex biogeochemical processes in freshwater ecosystems. In particular, he has been investigating the chemical and microbial interactions between dissolved and particulate organic matter. He is also interested in natural resources conservation as he has been previously involved in multiple initiatives regarding integrated water resources management.
