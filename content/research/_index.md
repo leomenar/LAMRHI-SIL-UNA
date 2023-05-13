@@ -1,5 +1,5 @@
 ---
-title: Latest News
+title: Recent research projects
 
 # Listing view
 view: compact
