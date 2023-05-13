@@ -22,18 +22,18 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include carbon and nitrogen cycling in inland water and mass spectrometry.
+bio: My research interests include carbon and nitrogen cycling in inland waters and mass spectrometry.
 
 interests:
-  - Organic matter dynamics in inland water
+  - Organic matter dynamics in inland waters
   - Mass spectrometry
-  - Compound-speficic stable isotope probing
+  - Compound-specific stable isotope probing
   - Surface water quality
 
 education:
   courses:
     - course: PhD in Chemistry
-      institution: University of Bristol
+      institution: University of Bristol, UK
       year: 2022
     - course: BSc in Industrial Chemistry
       institution: Universidad Nacional, Costa Rica
