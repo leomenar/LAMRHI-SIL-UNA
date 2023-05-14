@@ -59,12 +59,14 @@ sections:
         
         - Dr Tamie Jovanelly, Berry College, 2018-2019
         - Dr Thomas Swinscoe, University of Leeds, 2017
-        
+    design:
+      columns: '2'
+      
   - block: markdown
     id: section-1
     content:
       title: Collaborators
-      subtitle: We strongly believe in academic and research synergies
+      subtitle: *We strongly believe in academic and research synergies*
       text: |-
         - Dr Ana Maria Durán-Quesada, Universidad de Costa Rica
         - Dr Ricardo Sánchez-Murillo, University of Texas at Arlington
