@@ -1,13 +1,10 @@
 ---
-title: 'An example journal article'
+title: 'Nitrate isotopes (δ15N, δ18O) in precipitation: best practices from an international coordinated research project'
 authors:
   - admin
   - Robert Ford
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
 date: '2015-09-01T00:00:00Z'
-doi: ''
+doi: 'https://doi.org/10.1080/10256016.2023.2177649'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -22,7 +19,7 @@ publication_types: ['2']
 publication: '*Journal of Source Themes, 1*(1)'
 publication_short: ''
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Stable isotope ratios of nitrogen and oxygen (15N/14N and 18O/16O) of nitrate (NO3–) are excellent tracers for developing systematic understanding of sources, conversions, and deposition of reactive atmospheric nitrogen (Nr) in the environment. Despite recent analytical advances, standardized sampling of NO3–) isotopes in precipitation is still lacking. To advance atmospheric studies on Nr species, we propose best-practice guidelines for accurate and precise sampling and analysis of NO3– isotopes in precipitation based on the experience obtained from an international research project coordinated by the International Atomic Energy Agency (IAEA). The precipitation sampling and preservation strategies yielded a good agreement between the NO3– concentrations measured at the laboratories of 16 countries and at the IAEA. Compared to conventional methods (e.g., bacterial denitrification), we confirmed the accurate performance of the lower cost Ti(III) reduction method for isotope analyses (15N and 18O) of NO3– in precipitation samples. These isotopic data depict different origins and oxidation pathways of inorganic nitrogen. This work emphasized the capability of NO3– isotopes to assess the origin and atmospheric oxidation of Nr and outlined a pathway to improve laboratory capability and expertise at a global scale. The incorporation of other isotopes like 17O in Nr is recommended in future studies.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -34,7 +31,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -45,10 +42,10 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-  focal_point: ''
-  preview_only: false
+#image:
+#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+#  focal_point: ''
+#  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.

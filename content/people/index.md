@@ -39,21 +39,11 @@ sections:
     id: section-1
     content:
       title: Alumni and Visitors
-      subtitle: We have been lucky to work with talented people throughtout the years
+      subtitle: We have been lucky to work with very talented people throughtout the years
       text: |-
         ## Alumni
 
-        - Edwin Salas-González, 2023
-        - Karina Hernández-Ugalde, 2022
-        - Kelvin Arce-Villalobos, 2020
-        - Kimberly Ledezma-Zamora, 2017
-        - Mario Villalobos-Forbes
-        - Jessica Salas-Navarro
-        - Irene Montero-Rodríguez
-        - Ailyn Ramírez-Leiva
-        - Luis Diego Espinach
-        - Oscar Sáenz-Rosales
-        - Leonardo Corrales-Salazar
+        Edwin Salas-González (2023), Karina Hernández-Ugalde (2022), Kelvin Arce-Villalobos (2020), Kimberly Ledezma-Zamora (2017), Mario Villalobos-Forbes, Jessica Salas-Navarro, Irene Montero-Rodríguez, Ailyn Ramírez-Leiva, Luis Diego Espinach, Oscar Sáenz-Rosales, Leonardo Corrales-Salazar.
         
         ## Visitors
         
