@@ -11,7 +11,7 @@ sections:
       title: Facilities
       subtitle: false
       text: | 
-        Our laboratory is designed to undertake chemical and isotopic analyses in liquid samples. Instruments include:
+        Our laboratory is designed to undertake chemical and isotopic analyses in liquid samples. Instrumentation include:
         - Dual water isotope analysers (Picarro L2120-i and LGR DT-100)
         - Triple water isotope analyser (Picarro L2140-i)
         - Carbon isotope analyser (Picarro)

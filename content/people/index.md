@@ -39,7 +39,7 @@ sections:
     id: section-1
     content:
       title: Alumni and Visitors
-      subtitle: false
+      subtitle: We have been lucky to work with talented people throughtout the years
       text: |-
         ## Alumni
 
@@ -59,6 +59,8 @@ sections:
         
         - Dr Tamie Jovanelly, Berry College, 2018-2019
         - Dr Thomas Swinscoe, University of Leeds, 2017
+    design:
+      columns: '2'
       
   - block: markdown
     id: section-1
