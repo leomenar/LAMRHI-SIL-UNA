@@ -39,7 +39,7 @@ sections:
     id: section-1
     content:
       title: Alumni and Visitors
-      subtitle: We have worked with very talented people 
+      subtitle: We have worked with very talented people
       text: |-
         ## Alumni
 

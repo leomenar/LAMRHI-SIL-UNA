@@ -9,7 +9,7 @@ sections:
   - block: markdown
     content:
       title: Publications
-      subtitle: Over 70 peer-reviewed publications
+      subtitle: false
       text: |
           The following is a small subset of recent research articles, for an up to date list, please check the Google Scholar profile of each PI.
         - **Sánchez-Gutiérrez, R.**, Sánchez-Murillo, R., **Esquivel-Hernández**, G., Birkel, C., Boll, J., Rojas-Jiménez, L.D., & Castro-Chacón, L. (2023). Nitrate legacy in a tropical and complex fractured volcanic aquifer system. *Journal of Geophysical Research: Biogeosciences*. In review.
