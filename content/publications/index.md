@@ -9,9 +9,9 @@ sections:
   - block: markdown
     content:
       title: Publications
-      subtitle: false
-      text: |
-          The following is a small subset of recent research articles, for an up to date list, please check the Google Scholar profile of each PI.
+      subtitle: Over 70 peer-reviewed publications
+      text: |-
+        The following is a small subset of recent research articles, for an up to date list, please check the Google Scholar profile of each PI.
         - **Sánchez-Gutiérrez, R.**, Sánchez-Murillo, R., **Esquivel-Hernández**, G., Birkel, C., Boll, J., Rojas-Jiménez, L.D., & Castro-Chacón, L. (2023). Nitrate legacy in a tropical and complex fractured volcanic aquifer system. *Journal of Geophysical Research: Biogeosciences*. In review.
         - **Esquivel-Hernández, G.**, Matiatos, I., Sánchez-Murillo, R., Vystavna, Y., Balestrini, R., Wells, N.S., Monteiro, L.R., Chantara, S., Walters, W., Wassenaar, L.I. (2023): Nitrate isotopes (δ15N, δ18O) in precipitation: best practices from an international coordinated research project, *Isotopes in Environmental and Health Studies*. [Link](https://doi.org/10.1080/10256016.2023.2177649)
         - Reay, M. K., Marsden, K. A., Powell, S., **Rivera, L. M.**, Chadwick, D. R., Jones, D. L., & Evershed, R. P. (2023). The soil microbial community and plant biomass differentially contribute to the retention and recycling of urinary-N in grasslands. *Soil Biology and Biochemistry*. [Link](https://doi.org/10.1016/j.soilbio.2023.109011)
