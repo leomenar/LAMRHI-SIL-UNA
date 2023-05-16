@@ -37,7 +37,7 @@ education:
       year: 2023
     - course: MSc Environmental Science
       institution: Universidad Nacional, Costa Rica
-      year: 2020
+      year: 2019
     - course: BSc in Industrial Chemistry
       institution: Universidad Nacional, Costa Rica
       year: 2015
