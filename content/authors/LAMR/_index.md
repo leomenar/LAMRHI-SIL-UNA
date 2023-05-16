@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include carbon and nitrogen cycling in inland waters and mass spectrometry.
+bio: My research interestS include organic matter dynamics in freshwater ecosystems, mass spectrometry and stable isotopes.
 
 interests:
   - Organic matter dynamics
@@ -71,4 +71,4 @@ user_groups:
   - Principal Investigators
 ---
 
-Leonardo Mena-Rivera is interested in the application of state of the art analytical chemistry techniques to understand complex biogeochemical processes in freshwater ecosystems. In particular, he has been investigating the chemical and microbial interactions between dissolved and particulate organic matter using a combination of mass spectrometry, compound-specific stable isotopes and amplicon sequencing techniques. He is also interested in natural resources conservation as he has been previously involved in multiple initiatives regarding integrated water resources management.
+Leonardo Mena-Rivera is interested in the application of state of the art analytical chemistry techniques to better understand complex biogeochemical processes in freshwater ecosystems. In particular, he has been investigating the chemical and microbial interactions between dissolved and particulate organic matter using a combination of mass spectrometry, compound-specific stable isotopes and amplicon sequencing approaches. He is also interested in natural resources conservation as he has been previously involved in multiple initiatives regarding integrated water resources management.

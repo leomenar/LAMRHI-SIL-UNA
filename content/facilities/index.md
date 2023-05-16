@@ -14,11 +14,11 @@ sections:
         Our laboratory is designed to undertake chemical and isotopic analyses in liquid samples. Instrumentation include:
         - Dual water isotope analysers (Picarro L2120-i and LGR DT-100)
         - Triple water isotope analyser (Picarro L2140-i)
-        - Carbon isotope analyser (Picarro)
+        - Carbon isotope analyser (Picarro G2201-i)
         - Radon detector (Durridge RAD7)
         - Ion chromatograph (Dionex ICS 5000)
-        - UV-Vis spectrophotometer (TBC)
-        - Spectrofluorometer (TBC)
+        - UV-Vis spectrophotometer (Jasco V-750)
+        - Spectrofluorometer (Jasco FP-8300)
         - Autosamplers and field sensors
         - Other basic equipment (ovens, incubator, etc)
         

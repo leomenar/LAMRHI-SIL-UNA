@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Assistant Professor
+role: Assistant Professor in Analytical and Environmental Chemistry
 
 # Organizations/Affiliations
 organizations:
@@ -22,12 +22,13 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests TBC
+bio: My research interests include hydrogeochemistry, water quality and isotope hydrology.
 
 interests:
-  - Hydrochemistry
+  - Hydrogeochemistry
   - Water quality
-  - TBC
+  - Isotope hydrology
+  - Biogeochemistry
 
 education:
   courses:
@@ -70,4 +71,4 @@ user_groups:
   - Principal Investigators
 ---
 
-Rolando Sanchéz-Gutierrez...
+Rolando Sánchez-Gutierrez has experience in the application of different analytical techniques in environmental studies, including molecular spectroscopy (absorption and fluorescence), atomic spectroscopy, laser spectroscopy, and gas and liquid chromatography. He plays a main role in the group providing support, management, and quality control in laboratory analyses, as well as in the conceptualization and development of research projects. Moreover, he is interested in the implementation of new teaching methodologies in the courses of the analytical and enviromental section.
