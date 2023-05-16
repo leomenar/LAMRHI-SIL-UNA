@@ -32,8 +32,8 @@ interests:
 
 education:
   courses:
-    - course: MEd 
-      institution: Universidad Estatal a Distancia, Costa Rica
+    - course: MEd University Pedagogy
+      institution: Universidad Nacional, Costa Rica
       year: 2023
     - course: MSc Environmental Science
       institution: Universidad Nacional, Costa Rica
@@ -71,4 +71,4 @@ user_groups:
   - Principal Investigators
 ---
 
-Rolando Sánchez-Gutierrez has experience in the application of different analytical techniques in environmental studies, including molecular spectroscopy (absorption and fluorescence), atomic spectroscopy, laser spectroscopy, and gas and liquid chromatography. He plays a main role in the group providing support, management, and quality control in laboratory analyses, as well as in the conceptualization and development of research projects. Moreover, he is interested in the implementation of new teaching methodologies in the courses of the analytical and enviromental section.
+Rolando Sánchez-Gutierrez has experience in the application of different analytical techniques in environmental studies, including molecular spectroscopy (absorption and fluorescence), atomic spectroscopy, laser spectroscopy, and gas and liquid chromatography. He plays a main role in the group providing support, management, and quality control in laboratory analyses, as well as in the conceptualization and development of research projects. He is also interested in the implementation of new teaching methodologies in the courses of the analytical and enviromental section.

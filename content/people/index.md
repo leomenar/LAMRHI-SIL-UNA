@@ -39,7 +39,7 @@ sections:
     id: section-1
     content:
       title: Alumni and Visitors
-      subtitle: We have been lucky to work with very talented people throughtout the years
+      subtitle: We have worked with very talented people 
       text: |-
         ## Alumni
 
@@ -56,7 +56,7 @@ sections:
     id: section-1
     content:
       title: Collaborators
-      subtitle: We strongly believe in academic and research synergies
+      subtitle: Academic synergies at the core of our research
       text: |-
         - Dr Ana Maria Durán-Quesada, Universidad de Costa Rica
         - Dr Ricardo Sánchez-Murillo, University of Texas at Arlington
