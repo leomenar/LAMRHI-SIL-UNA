@@ -26,6 +26,6 @@ sections:
         - **Esquivel-Hernández, G.**, Mosquera, G.M., Sánchez-Murillo, R., Birkel, C., Crespo, P., Célleri, R., Windhorst, D., Breuer, L., Boll, J. (2019). Moisture transport and seasonal variations in the stable isotopic composition of rainfall in Central American and Andean Páramos. *Hydrological Processes*. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/hyp.13438)
         - **Esquivel-Hernández, G.**, Sánchez-Murillo, R., Quesada-Román, A., Mosquera, G.M., Birkel, C., Boll, J. (2018). Insight into the stable isotopic composition of glacial lakes in a tropical alpine ecosystem: Chirripó, Costa Rica. *Hydrological Processes*. [Link](https://doi.org/10.1002/hyp.13286)
         - **Mena-Rivera, L.**, Vásquez-Bolaños, O., Gómez-Castro, C., Fonseca-Sánchez, A., Rodríguez-Rodríguez, A., & **Sánchez-Gutiérrez, R**. (2018). Ecosystemic Assessment of Surface Water Quality in the Virilla River: Towards Sanitation Processes in Costa Rica. *Water*. [Link](https://doi.org/10.3390/w10070845)
-      design:
-        columns: '2'
+    design:
+      columns: '2'
 ---
