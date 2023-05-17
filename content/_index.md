@@ -13,9 +13,7 @@ sections:
       image:
         filename: welcome.jpg
       text: |
-        <br>
-        
-       The **Water Resources Management Laboratory and the Stable Isotope Research Group** of [Universidad Nacional, Costa Rica](www.una.ac.cr)
+        Welcome to the **Water Resources Management Laboratory and the Stable Isotopes Research Group** of [Universidad Nacional, Costa Rica](www.una.ac.cr). We work at the interseccion of analytical chemistry, hydrological processes and biogeochemical cycling.
   
   - block: collection
     content:
