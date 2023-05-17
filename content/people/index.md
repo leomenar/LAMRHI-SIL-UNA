@@ -44,7 +44,7 @@ sections:
       text: |-
         ## Alumni
 
-        Edwin Salas-González (2023), Karina Hernández-Ugalde (2022), Kelvin Arce-Villalobos (2020), Kimberly Ledezma-Zamora (2017), Mario Villalobos-Forbes, Jessica Salas-Navarro, Irene Montero-Rodríguez, Ailyn Ramírez-Leiva, Luis Diego Espinach, Oscar Sáenz-Rosales, Leonardo Corrales-Salazar.
+        Edwin Salas-González (2023), Juan Sotomayor-Pineda (2023), Karina Hernández-Ugalde (2022), Kelvin Arce-Villalobos (2020), Kevin Carballo-Chaves (2020), Kimberly Ledezma-Zamora (2017), Mario Villalobos-Forbes, Jessica Salas-Navarro, Irene Montero-Rodríguez, Ailyn Ramírez-Leiva, Luis Diego Espinach, Oscar Sáenz-Rosales, Leonardo Corrales-Salazar, Alejandra Castillo-Cordero (2013), Daniela Rojas-Cantillano (2012), & many more.
         
         ## Visitors
         
