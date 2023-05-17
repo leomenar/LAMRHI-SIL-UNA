@@ -5,7 +5,7 @@ date: 2023-05-12
 authors: ["LAMR"]
 ---
 
-This project is part of...
+This project is developed as part of the CRP-F31007: *"Understanding the importance of Convective Rain Events and Tracing Their Impact on the Catchment with Isotopes"* developed by the International Atomic Energy Agency.
 
 <!--more-->
 

@@ -31,6 +31,7 @@ sections:
       subtitle: false
       text: |-
         - Jimena Zamora-Arce
+        - Emmanuel Montealegre-Viales
         - Andrés Abarca-Herrera
         - Priscilla Baldi-Badilla
         - Celeste Ramirez-Villegas
