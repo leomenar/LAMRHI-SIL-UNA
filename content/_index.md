@@ -7,8 +7,7 @@ type: landing
 sections:
   - block: hero
     content:
-      title: |
-        LAMRHI-SIL-UNA
+      title: false
         
       image:
         filename: welcome.jpg
