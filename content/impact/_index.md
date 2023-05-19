@@ -1,22 +1,23 @@
 ---
-title: Recent projects
+title: Awards & Media
 type: landing
 
 sections:
   - block: collection
     id: posts
     content:
-      title: Recent projects
+      title: Awards & Media
       subtitle: ''
       # Choose how many pages you would like to display (0 = all pages)
-      count: 3
+      count: 5
       # Filter on criteria
       filters:
         # The folders to display content from
         folders:
-          - convective
-          - lacustrine
-          - poas
+          - calidad
+          - Conicit
+          - media
+          - paper
         author: ""
         featured_only: false
         exclude_featured: false
