@@ -8,7 +8,7 @@ sections:
       title: Awards & Media
       subtitle: ''
       # Choose how many pages you would like to display (0 = all pages)
-      count: 5
+      count: 0
       # Filter on criteria
       filters:
         # The folders to display content from
@@ -16,7 +16,6 @@ sections:
           - calidad
           - Conicit
           - media
-          - paper
         author: ""
         featured_only: false
         exclude_featured: false
