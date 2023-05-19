@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interestS include organic matter dynamics in freshwater ecosystems, mass spectrometry and stable isotopes.
+bio: My research interests include organic matter dynamics in freshwater ecosystems, mass spectrometry and stable isotopes.
 
 interests:
   - Organic matter dynamics
