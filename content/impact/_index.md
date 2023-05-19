@@ -4,7 +4,6 @@ type: landing
 
 sections:
   - block: collection
-    id: posts
     content:
       title: Awards & Media
       subtitle: ''
