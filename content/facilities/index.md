@@ -23,4 +23,25 @@ sections:
         - Other basic equipment (ovens, incubator, etc)
         
         The group has also access to additional facilities within the School of Chemistry
+
+  - block: markdown
+    content:
+      title:
+      subtitle: ''
+      text:
+    design:
+      columns: '1'
+      background:
+        image: 
+          filename: coders.jpg
+          filters:
+            brightness: 1
+          parallax: false
+          position: center
+          size: cover
+          text_color_light: true
+      spacing:
+        padding: ['20px', '0', '20px', '0']
+      css_class: fullscreen
+
 ---
