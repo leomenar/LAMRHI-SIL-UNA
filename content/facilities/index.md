@@ -9,9 +9,9 @@ sections:
   - block: markdown
     content:
       title: Facilities
-      subtitle: false
+      subtitle: Our laboratory is designed to undertake chemical and isotopic analyses in liquid samples
       text: | 
-        Our laboratory is designed to undertake chemical and isotopic analyses in liquid samples. Instrumentation include:
+        Instrumentation include:
         - Dual water isotope analysers (Picarro L2120-i and LGR DT-100)
         - Triple water isotope analyser (Picarro L2140-i)
         - Carbon isotope analyser (Picarro G2201-i)
@@ -23,6 +23,9 @@ sections:
         - Other basic equipment (ovens, incubator, etc)
         
         The group has also access to additional facilities within the School of Chemistry
+      design:
+        columns: '2'
+
 
   - block: markdown
     content:
@@ -43,5 +46,4 @@ sections:
       spacing:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
-
 ---
