@@ -9,7 +9,6 @@ sections:
       title: Recent research projects
       subtitle: ''
       count: 5
-      # Filter on criteria
       filters:
         folders:
           - convective
@@ -28,6 +27,5 @@ sections:
       sort_by: 'Date'
       sort_ascending: false
     design:
-      view: compact
       columns: '2'
 ---
