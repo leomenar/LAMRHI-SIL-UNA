@@ -14,25 +14,6 @@ sections:
       text: |
         Welcome to the Water Resources Management Laboratory (LAMRHI) and the Stable Isotopes Research Group (SIL) of [Universidad Nacional, Costa Rica](https://www.una.ac.cr/). We work at the interseccion of analytical chemistry, hydrological processes and biogeochemical cycling.
   
-  - block: collection
-    content:
-      title: Latest News
-      subtitle:
-      text:
-      count: 5
-      filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: post
-    design:
-      view: card
-      columns: '1'
-  
   - block: markdown
     content:
       title:

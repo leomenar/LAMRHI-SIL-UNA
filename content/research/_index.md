@@ -22,9 +22,11 @@ sections:
         exclude_featured: false
         exclude_future: false
         exclude_past: false
+      page_type: post
       offset: 0
       sort_by: 'Date'
       sort_ascending: false
     design:
+      view: card
       columns: '2'
 ---
